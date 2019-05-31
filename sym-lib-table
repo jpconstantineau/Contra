@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Contra-rescue)(type Legacy)(uri ${KIPRJMOD}/Contra-rescue.lib)(options "")(descr ""))
+  (lib (name josh)(type Legacy)(uri ${KIPRJMOD}/locallib.pretty/josh.lib)(options "")(descr ""))
+)
